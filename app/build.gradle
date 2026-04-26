@@ -1,0 +1,6 @@
+plugins { id 'com.android.application' }
+android { namespace 'com.priv.service'
+compileSdk 34
+defaultConfig { applicationId 'com.priv.service'
+minSdk 24
+targetSdk 34 } }
